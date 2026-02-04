@@ -1,4 +1,4 @@
-# Solana Verifiable Lottery 🎰
+# Solana Verifiable Lottery 
 
 A **trust-minimized** lottery draw system designed for Solana token holders. This tool ensures fairness by leveraging on-chain entropy and deterministic selection logic.
 
