@@ -1,0 +1,67 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Lottery Outputs
+# =========================
+audit.json
+audit_*.json
+
+# Local run artifacts
+*.log
+
+# =========================
+# Exclusion Lists
+# =========================
+excluded_wallets.txt
+excluded_wallets.mainnet.txt
+excluded_wallets.local.txt
+
+# Keep templates
+!excluded_wallets.example.txt
+
+# =========================
+# Coverage / Testing
+# =========================
+.coverage
+.pytest_cache/
+htmlcov/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak
