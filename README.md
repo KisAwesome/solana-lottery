@@ -76,9 +76,3 @@ solana-lottery verify --audit audit.json
 | **Finality** | Requires `finalized` status to protect against chain reorganizations. |
 
 ---
-
-## ⚠️ Disclaimer
-
-*This software is provided for experimental and entertainment purposes. Users are responsible for ensuring compliance with local laws and regulations regarding giveaways or lotteries.*
-
----
